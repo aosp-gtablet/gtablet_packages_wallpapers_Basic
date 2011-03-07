@@ -40,10 +40,9 @@
   </string-array>
 
   <string-array name="nexus_colorscheme_names" translatable="false">
-    <item>Dust</item>
     <item>Nexus</item>
+    <item>Dust</item>
     <item>SexyNexus</item>
-    <item>CyanogenMod</item>
     <item>Candy</item>
     <item>Zion</item>
     <item>Sholes Red</item>
@@ -52,10 +51,9 @@
     <item>Cotton Candy</item>
   </string-array>
   <string-array name="nexus_colorscheme_ids" translatable="false">
-    <item>dust</item>
     <item>nexus</item>
+    <item>dust</item>
     <item>sexynexus</item>
-    <item>cyanogenmod</item>
     <item>candy</item>
     <item>zion</item>
     <item>red</item>
@@ -70,14 +68,14 @@
     <item>#80735F</item>
     <item>#B8A07E</item>
   </string-array>
-  
+
   <string-array name="nexus_colorscheme_mau5" translateable="false">
       <item>#26ffff</item>
       <item>#26ffff</item>
       <item>#666666</item>
       <item>#474747</item>
   </string-array>
-  
+
   <string-array name="nexus_colorscheme_nexus" translatable="false">
   	<item>#FF0000</item>
   	<item>#009900</item>
@@ -92,13 +90,6 @@
   	<item>#ACD1E8</item>
   </string-array>
   
-  <string-array name="nexus_colorscheme_cyanogenmod" translatable="false">
-  	<item>#16F0F1</item>
-  	<item>#16F0F1</item>
-  	<item>#16F0F1</item>
-  	<item>#16F0F1</item>
-  </string-array>
-
   <string-array name="nexus_colorscheme_candy" translatable="false">
     <item>#471045</item>
     <item>#BD2056</item>
@@ -138,7 +129,6 @@
     <item>Normal</item>
     <item>Dark</item>
     <item>Looking Glass</item>
-    <item>Cyanogenmod</item> //added option for cyanogenmod
     <item>Blue Droid</item>// added jegoss's droid background
     <item>Dark Droid</item>
     <item>Carbon Fiber</item> // added InsaneNemesis carbon fiber background
@@ -148,7 +138,6 @@
     <item>pyramid</item>
     <item>dark_pyramid</item>
     <item>lookingglass</item>
-    <item>cyanogenmod</item> //added option for cyanogenmod
     <item>droid</item>//added jeagoss's droid background
     <item>dark_droid</item>
     <item>carbonfiber</item> // added InsaneNemesis carbon fiber background
